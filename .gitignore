@@ -88,3 +88,8 @@ Thumbs.db
 .coverage
 htmlcov/
 .mypy_cache/
+
+# Type checking & linters
+pyrefly.toml
+.pyrefly_cache/
+
